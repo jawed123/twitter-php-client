@@ -1,4 +1,4 @@
-SK-Twitter-Api v1.0
+SK-Twitter-Api v1.0 Alpha
 ------------
 
 A simple twitter search api client
